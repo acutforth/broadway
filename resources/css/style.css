@@ -4,7 +4,7 @@ body{
 }
 .header{
   color: white;
-  font-size: 70 px;
+  font-size: 70px;
   font-weight: bold;
 }
 .links{
@@ -16,4 +16,21 @@ body{
 a{
   color: white;
   font-size: 18px;
+}
+h1{
+  font-size: 32px;
+  font-weight: bold;
+}
+h2{
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-size: 14px;
+}
+.header2{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
